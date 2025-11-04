@@ -7,6 +7,7 @@
 # **Things i use**
 
 [ChatGPT](chatgpt.com) *(it just explains everything so good i cant bruh)*
+
 [LeetCode](leetcode.com)
 
 - *Things i learned*
