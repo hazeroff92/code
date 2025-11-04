@@ -6,9 +6,9 @@
 
 # **Things i use**
 
-[ChatGPT](chatgpt.com) *(it just explains everything so good i cant bruh)*
+[ChatGPT](https://chatgpt.com) *(it just explains everything so good i cant bruh)*
 
-[LeetCode](leetcode.com)
+[LeetCode](https://leetcode.com)
 
 - *Things i learned*
    - *Nothing!*
